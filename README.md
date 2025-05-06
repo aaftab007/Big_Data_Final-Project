@@ -173,8 +173,6 @@ DEBIT,UNEMPLOYED,OWN,WEB,IOS,300.0
 * **Live Spark Console Output** showing batch counts and latency warnings.
 * **Streamlit Dashboard** for real-time transaction submission and fraud counts.
 
-![Console Output](images/console_output.png)
-![Streamlit UI](images/streamlit_ui.png)
 
 ---
 
