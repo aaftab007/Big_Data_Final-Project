@@ -1,7 +1,5 @@
 # Real-Time Bank Account Fraud Detection System
 
-![Real-Time Dashboard](images/streamlit_ui.png)
-![Streaming Console Output](images/console_output.png)
 
 ---
 
